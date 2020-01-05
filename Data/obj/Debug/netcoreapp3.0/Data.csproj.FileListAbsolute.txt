@@ -1,0 +1,4 @@
+C:\Users\xflak\source\repos\SpackkBooksCore\Data\bin\Debug\netcoreapp3.0\Models.dll
+C:\Users\xflak\source\repos\SpackkBooksCore\Data\obj\Debug\netcoreapp3.0\Data.csprojAssemblyReference.cache
+C:\Users\xflak\source\repos\SpackkBooksCore\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfoInputs.cache
+C:\Users\xflak\source\repos\SpackkBooksCore\Data\obj\Debug\netcoreapp3.0\Data.AssemblyInfo.cs
